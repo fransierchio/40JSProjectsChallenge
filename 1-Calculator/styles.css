@@ -6,7 +6,7 @@
     --firstBorder: #BEE3DB; /* same color of primary color */
     --secondBorder: #CFF4EB;
     --secondary: #E3BEBE;
-    --secondaryHover: #D2B0B0;
+    --secondaryHover: #8b6464;
     --secondaryFirstBorder: #E3BEBE;
     --secondarySecondBorder: #F4CFCF;
 }
@@ -47,7 +47,7 @@ body {
 }
 
 button {
-    font-size: 1.3em;
+    font-size: 1.9em;
     font-weight: 900;
     border-radius: 10px;
     border: none;
